@@ -1,0 +1,6 @@
+{
+  "name": "Floor 99",
+  "description": "High-stakes vertical crawling action roguelike with a mobile-first design framework, interactive GDD, and a playable Jetpack Compose 2D engine prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
